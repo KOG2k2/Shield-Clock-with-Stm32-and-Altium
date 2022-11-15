@@ -1,0 +1,20 @@
+Change Component Footprint: Designator=D1 Old Footprint=Led 0805 New Footprint=LED 3MM - red
+Change Component Footprint: Designator=D2 Old Footprint=Led 0805 New Footprint=LED 3MM - red
+Change Component Footprint: Designator=D3 Old Footprint=Led 0805 New Footprint=LED 3MM - red
+Change Component Footprint: Designator=D4 Old Footprint=Led 0805 New Footprint=LED 3MM - red
+Change Component Footprint: Designator=D5 Old Footprint=Led 0805 New Footprint=LED 3MM - red
+Change Component Footprint: Designator=D6 Old Footprint=Led 0805 New Footprint=LED 3MM - red
+Change Component Footprint: Designator=D7 Old Footprint=Led 0805 New Footprint=LED 3MM - red
+Change Component Footprint: Designator=D8 Old Footprint=Led 0805 New Footprint=LED 3MM - red
+Change Component Footprint: Designator=D9 Old Footprint=Led 0805 New Footprint=LED 3MM - red
+Change Component Footprint: Designator=D10 Old Footprint=Led 0805 New Footprint=LED 3MM - red
+Change Component Footprint: Designator=D11 Old Footprint=Led 0805 New Footprint=LED 3MM - red
+Change Component Footprint: Designator=D12 Old Footprint=Led 0805 New Footprint=LED 3MM - red
+Added Pin To Net: NetName=10 Pin=D4-2
+Added Pin To Net: NetName=2 Pin=D5-2
+Added Pin To Net: NetName=9 Pin=D6-2
+Added Pin To Net: NetName=3 Pin=D7-2
+Added Pin To Net: NetName=8 Pin=D8-2
+Added Pin To Net: NetName=4 Pin=D9-2
+Added Pin To Net: NetName=7 Pin=D10-2
+Added Room: Name=ShieldClock
